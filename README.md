@@ -3,4 +3,4 @@ A deep learning project that converts song snippets into colored images, dependi
 
 # Getting Data
 
-Go to the `data_scraping` dir and either download `data.zip` and extract `songs.csv` and `tags.csv` into `./data/csv`
+Go to the `data_scraping` dir and download `data.zip` and extract `songs.csv` and `tags.csv` into `./data/csv`
