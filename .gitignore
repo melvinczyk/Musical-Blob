@@ -208,12 +208,9 @@ __marimo__/
 data/tags.jl
 data/csv/songs.csv
 data/csv/tags.csv
-data/embeddings/genre_embeddings.json
 data/tags.jl
 data/csv/songs.csv
 data/csv/tags.csv
-data/embeddings/genre_embeddings.json
 data/tags.jl
 data/csv/songs.csv
 data/csv/genres.csv
-data/embeddings/genre_embeddings.json
