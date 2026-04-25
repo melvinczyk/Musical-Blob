@@ -214,3 +214,6 @@ data/csv/tags.csv
 data/tags.jl
 data/csv/songs.csv
 data/csv/genres.csv
+
+models/vae_model.pt
+data/embeddings
