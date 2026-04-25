@@ -1,0 +1,397 @@
+[
+  {
+    "spotify_id": "0wNUTleNAhiAFPghCxLt27",
+    "name": "School Boy Crush",
+    "artist": "Average White Band",
+    "genres": [
+      "classic funk rock",
+      "funk",
+      "memphis soul",
+      "motown",
+      "quiet storm"
+    ],
+    "tags": [
+      "funk",
+      "soul",
+      "rock",
+      "jecks",
+      "funky",
+      "groovy",
+      "acoustic",
+      "instrumental",
+      "fun",
+      "noir"
+    ]
+  },
+  {
+    "spotify_id": "0KDaN0HL3TcJVTbXlQCEsS",
+    "name": "Torn",
+    "artist": "Natalie Imbruglia",
+    "genres": [
+      "australian pop",
+      "europop",
+      "new wave pop",
+      "pop rock"
+    ],
+    "tags": [
+      "pop",
+      "rock",
+      "female",
+      "alternative",
+      "nostalgia",
+      "romantic",
+      "relax",
+      "indie",
+      "memories",
+      "nostalgic"
+    ]
+  },
+  {
+    "spotify_id": "2xNAmEb0y7ZrwnnbZ82g5I",
+    "name": "Walk the Shame",
+    "artist": "Pony the Pirate",
+    "genres": [
+      "norwegian pop",
+      "norwegian rock"
+    ],
+    "tags": [
+      "scandinavian",
+      "pop",
+      "rock"
+    ]
+  },
+  {
+    "spotify_id": "24CXuh2WNpgeSYUOvz14jk",
+    "name": "Sandstorm",
+    "artist": "Darude",
+    "genres": [
+      "eurodance"
+    ],
+    "tags": [
+      "trance",
+      "techno",
+      "dance",
+      "electronic",
+      "electronica",
+      "club",
+      "instrumental",
+      "eurodance",
+      "electro",
+      "pop"
+    ]
+  },
+  {
+    "spotify_id": "4L2S9GbwEgwfSbHjTCvNQX",
+    "name": "Say Hello 2 Heaven",
+    "artist": "Temple Of The Dog",
+    "genres": [
+      "grunge"
+    ],
+    "tags": [
+      "rock",
+      "alternative",
+      "chill",
+      "melancholy",
+      "lovely",
+      "nostalgia",
+      "epic",
+      "death"
+    ]
+  },
+  {
+    "spotify_id": "5kapVb34raTBsynt0Zj6qw",
+    "name": "Bossa Antigua",
+    "artist": "Paul Desmond",
+    "genres": [
+      "bebop",
+      "bossa nova",
+      "contemporary post-bop",
+      "cool jazz",
+      "hard bop",
+      "jazz",
+      "soul jazz",
+      "stride",
+      "vocal jazz"
+    ],
+    "tags": [
+      "jazz",
+      "saxophone",
+      "quiet",
+      "pleasant",
+      "latin"
+    ]
+  },
+  {
+    "spotify_id": "37kfSIc7DSzXl1IH640R9Q",
+    "name": "Lovely Allen",
+    "artist": "Holy Fuck",
+    "genres": [
+      "alternative dance",
+      "chamber psych",
+      "dance-punk",
+      "new rave"
+    ],
+    "tags": [
+      "electronic",
+      "indie",
+      "experimental",
+      "electronica",
+      "dance",
+      "joyful",
+      "instrumental",
+      "strings",
+      "canada",
+      "alternative"
+    ]
+  },
+  {
+    "spotify_id": "2KqtJ9CwmjbUN2zrDFw4ln",
+    "name": "Drivethru Blues",
+    "artist": "OPGave",
+    "genres": [
+      "downtempo fusion"
+    ],
+    "tags": [
+      "chillout",
+      "ambient",
+      "morning",
+      "chill",
+      "instrumental",
+      "downtempo",
+      "super",
+      "sexy",
+      "melancholic"
+    ]
+  },
+  {
+    "spotify_id": "6cqXhzuVIH4Hm2CkF7ZN21",
+    "name": "Helicopter",
+    "artist": "Deerhunter",
+    "genres": [
+      "chamber pop",
+      "experimental rock",
+      "freak folk",
+      "garage psych",
+      "lo-fi",
+      "neo-psychedelic",
+      "noise pop",
+      "noise rock",
+      "shoegaze",
+      "slow core",
+      "space rock"
+    ],
+    "tags": [
+      "shoegaze",
+      "indie",
+      "psychedelic",
+      "experimental",
+      "dreampop",
+      "alternative",
+      "rock",
+      "summer",
+      "soothing",
+      "religious"
+    ]
+  },
+  {
+    "spotify_id": "0Nm6plnGpJd7q3EFmMnFXZ",
+    "name": "Nocturnal Trip",
+    "artist": "Al-Pha-X",
+    "genres": [
+      "deep chill-out"
+    ],
+    "tags": [
+      "chillout",
+      "relaxation",
+      "heaven",
+      "electronic",
+      "downtempo"
+    ]
+  },
+  {
+    "spotify_id": "2ZyKEtawyPdYXQG0U2SAYy",
+    "name": "The Perfect Needle",
+    "artist": "The Telescopes",
+    "genres": [
+      "twee pop"
+    ],
+    "tags": [
+      "shoegaze",
+      "noise",
+      "indie",
+      "introspective",
+      "alternative",
+      "psychedelic",
+      "drone",
+      "rock",
+      "english",
+      "spacey"
+    ]
+  },
+  {
+    "spotify_id": "2QgWuCtBpNIpl5trmKCxRf",
+    "name": "American Pie",
+    "artist": "Don McLean",
+    "genres": [
+      "adult standards",
+      "folk",
+      "folk rock",
+      "mellow gold",
+      "singer-songwriter",
+      "soft rock",
+      "traditional folk"
+    ],
+    "tags": [
+      "folk",
+      "rock",
+      "oldies",
+      "pop",
+      "classic",
+      "acoustic",
+      "nostalgic",
+      "piano",
+      "epic",
+      "americana"
+    ]
+  },
+  {
+    "spotify_id": "6mbbXTBC7ADcjh5RCNrooU",
+    "name": "There Can Be Only One",
+    "artist": "Cass McCombs",
+    "genres": [
+      "folk-pop",
+      "indie rock",
+      "noise pop",
+      "singer-songwriter"
+    ],
+    "tags": [
+      "rock",
+      "later",
+      "alternative"
+    ]
+  },
+  {
+    "spotify_id": "63lZR6NrvsosUAFwXSE63E",
+    "name": "Local Girls",
+    "artist": "Graham Parker & The Rumour",
+    "genres": [
+      "roots rock"
+    ],
+    "tags": [
+      "rock",
+      "freedom",
+      "poppy",
+      "pop",
+      "alternative"
+    ]
+  },
+  {
+    "spotify_id": "2Kv95rcsvqZtFxPqe3Fqiw",
+    "name": "Be-Bop 2 Hip-Hop",
+    "artist": "Jem Stone",
+    "genres": [
+      "electro swing",
+      "nu jazz"
+    ],
+    "tags": [
+      "funky",
+      "jazz",
+      "hip hop"
+    ]
+  },
+  {
+    "spotify_id": "1mD0LxzCdfathf6j7xMp7b",
+    "name": "Player One",
+    "artist": "Machinae Supremacy",
+    "genres": [
+      "gothic symphonic metal",
+      "melodic death metal",
+      "power metal",
+      "swedish metal"
+    ],
+    "tags": [
+      "metal",
+      "rock",
+      "electronic",
+      "electronica",
+      "free",
+      "bitpop",
+      "colours",
+      "red",
+      "loud",
+      "vocal"
+    ]
+  },
+  {
+    "spotify_id": "3KRRK3n90hfCQcMPDmWA9Z",
+    "name": "Something To Do With My Hands",
+    "artist": "Her Space Holiday",
+    "genres": [
+      "electronica"
+    ],
+    "tags": [
+      "indie",
+      "indietronica",
+      "electronica",
+      "electronic",
+      "chillout",
+      "lyrics",
+      "chill",
+      "happy",
+      "sexy",
+      "pop"
+    ]
+  },
+  {
+    "spotify_id": "4pkFvX3AkuiSGPkv8gMlks",
+    "name": "Save Me",
+    "artist": "Remy Zero",
+    "genres": [
+      "pop rock"
+    ],
+    "tags": [
+      "rock",
+      "alternative",
+      "indie",
+      "pop",
+      "chillout",
+      "stylish",
+      "emo",
+      "favoritas",
+      "nostalgic",
+      "ost"
+    ]
+  },
+  {
+    "spotify_id": "2xuKmm8QHhZRkeD1fiVyQ7",
+    "name": "Tranquilamente",
+    "artist": "Vanessa Bumagny",
+    "genres": [
+      "deep brazilian pop"
+    ],
+    "tags": [
+      "brasil",
+      "mpb",
+      "salsa"
+    ]
+  },
+  {
+    "spotify_id": "4hCS2oXEcCRyY0zUIryCJd",
+    "name": "It's Good News Week",
+    "artist": "Hedgehoppers Anonymous",
+    "genres": [
+      "british invasion",
+      "merseybeat"
+    ],
+    "tags": [
+      "pop",
+      "oldies",
+      "fun",
+      "novelty",
+      "beat",
+      "malesinger",
+      "atmospheric",
+      "political"
+    ]
+  }
+]
