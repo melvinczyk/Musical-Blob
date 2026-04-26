@@ -1,397 +1,791 @@
 [
   {
-    "spotify_id": "0wNUTleNAhiAFPghCxLt27",
-    "name": "School Boy Crush",
-    "artist": "Average White Band",
+    "spotify_id": "4s9JGX0flu9KcxZziV3I0C",
+    "name": "Why Didn't I Think Of That",
+    "artist": "Doug Stone",
     "genres": [
-      "classic funk rock",
-      "funk",
-      "memphis soul",
-      "motown",
-      "quiet storm"
+      "country"
     ],
     "tags": [
-      "funk",
-      "soul",
-      "rock",
-      "jecks",
-      "funky",
-      "groovy",
-      "acoustic",
-      "instrumental",
-      "fun",
-      "noir"
+      [
+        "country",
+        100
+      ],
+      [
+        "slow",
+        8
+      ],
+      [
+        "seebest",
+        4
+      ],
+      [
+        "midbest",
+        4
+      ],
+      [
+        "everbest",
+        4
+      ],
+      [
+        "romantic",
+        4
+      ],
+      [
+        "sleepy",
+        4
+      ],
+      [
+        "bestallof",
+        4
+      ],
+      [
+        "dance",
+        4
+      ],
+      [
+        "dbest",
+        4
+      ]
     ]
   },
   {
-    "spotify_id": "0KDaN0HL3TcJVTbXlQCEsS",
-    "name": "Torn",
-    "artist": "Natalie Imbruglia",
-    "genres": [
-      "australian pop",
-      "europop",
-      "new wave pop",
-      "pop rock"
-    ],
-    "tags": [
-      "pop",
-      "rock",
-      "female",
-      "alternative",
-      "nostalgia",
-      "romantic",
-      "relax",
-      "indie",
-      "memories",
-      "nostalgic"
-    ]
-  },
-  {
-    "spotify_id": "2xNAmEb0y7ZrwnnbZ82g5I",
-    "name": "Walk the Shame",
-    "artist": "Pony the Pirate",
-    "genres": [
-      "norwegian pop",
-      "norwegian rock"
-    ],
-    "tags": [
-      "scandinavian",
-      "pop",
-      "rock"
-    ]
-  },
-  {
-    "spotify_id": "24CXuh2WNpgeSYUOvz14jk",
-    "name": "Sandstorm",
-    "artist": "Darude",
-    "genres": [
-      "eurodance"
-    ],
-    "tags": [
-      "trance",
-      "techno",
-      "dance",
-      "electronic",
-      "electronica",
-      "club",
-      "instrumental",
-      "eurodance",
-      "electro",
-      "pop"
-    ]
-  },
-  {
-    "spotify_id": "4L2S9GbwEgwfSbHjTCvNQX",
-    "name": "Say Hello 2 Heaven",
-    "artist": "Temple Of The Dog",
-    "genres": [
-      "grunge"
-    ],
-    "tags": [
-      "rock",
-      "alternative",
-      "chill",
-      "melancholy",
-      "lovely",
-      "nostalgia",
-      "epic",
-      "death"
-    ]
-  },
-  {
-    "spotify_id": "5kapVb34raTBsynt0Zj6qw",
-    "name": "Bossa Antigua",
-    "artist": "Paul Desmond",
+    "spotify_id": "7HjsDLQ55ca8tHvSSrQU8S",
+    "name": "On the Sunny Side of the Street",
+    "artist": "Johnny Hodges",
     "genres": [
       "bebop",
-      "bossa nova",
+      "big band",
       "contemporary post-bop",
       "cool jazz",
       "hard bop",
       "jazz",
+      "new orleans jazz",
       "soul jazz",
       "stride",
-      "vocal jazz"
+      "swing"
     ],
     "tags": [
-      "jazz",
-      "saxophone",
-      "quiet",
-      "pleasant",
-      "latin"
+      [
+        "jazz",
+        100
+      ],
+      [
+        "saxophone",
+        20
+      ],
+      [
+        "bebop",
+        20
+      ]
     ]
   },
   {
-    "spotify_id": "37kfSIc7DSzXl1IH640R9Q",
-    "name": "Lovely Allen",
-    "artist": "Holy Fuck",
+    "spotify_id": "2Nx6A9Y8Esr0mh5rz7NXku",
+    "name": "Una Calle Nos Separa",
+    "artist": "Nestor En Bloque",
     "genres": [
-      "alternative dance",
-      "chamber psych",
-      "dance-punk",
-      "new rave"
+      "cumbia pop",
+      "cumbia villera"
     ],
     "tags": [
-      "electronic",
-      "indie",
-      "experimental",
-      "electronica",
-      "dance",
-      "joyful",
-      "instrumental",
-      "strings",
-      "canada",
-      "alternative"
+      [
+        "cumbia",
+        100
+      ],
+      [
+        "indie",
+        34
+      ],
+      [
+        "pop",
+        34
+      ],
+      [
+        "alternative",
+        34
+      ]
     ]
   },
   {
-    "spotify_id": "2KqtJ9CwmjbUN2zrDFw4ln",
-    "name": "Drivethru Blues",
-    "artist": "OPGave",
+    "spotify_id": "78WI8Wusw3HXu9U7CL7N8U",
+    "name": "You Are The Sunshine Of My Life",
+    "artist": "Dorothy Donegan",
     "genres": [
-      "downtempo fusion"
+      "stride"
     ],
     "tags": [
-      "chillout",
-      "ambient",
-      "morning",
-      "chill",
-      "instrumental",
-      "downtempo",
-      "super",
-      "sexy",
-      "melancholic"
+      [
+        "soul",
+        50
+      ],
+      [
+        "piano",
+        50
+      ],
+      [
+        "jazz",
+        50
+      ]
     ]
   },
   {
-    "spotify_id": "6cqXhzuVIH4Hm2CkF7ZN21",
-    "name": "Helicopter",
-    "artist": "Deerhunter",
+    "spotify_id": "18iy6lG49OyOYhMaF91uK8",
+    "name": "About You Now",
+    "artist": "Timo R\u00e4is\u00e4nen",
     "genres": [
-      "chamber pop",
-      "experimental rock",
-      "freak folk",
-      "garage psych",
+      "swedish alternative rock"
+    ],
+    "tags": [
+      [
+        "pop",
+        100
+      ],
+      [
+        "electronic",
+        40
+      ],
+      [
+        "britpop",
+        40
+      ],
+      [
+        "nochmal",
+        20
+      ],
+      [
+        "indie",
+        20
+      ],
+      [
+        "punkd",
+        20
+      ]
+    ]
+  },
+  {
+    "spotify_id": "0PLhlidRSKjToy3RmBmBC6",
+    "name": "Katja",
+    "artist": "Apparatschik",
+    "genres": [
+      "balkan brass"
+    ],
+    "tags": [
+      [
+        "folk",
+        100
+      ],
+      [
+        "punk",
+        25
+      ],
+      [
+        "party",
+        25
+      ],
+      [
+        "ska",
+        25
+      ],
+      [
+        "polka",
+        25
+      ],
+      [
+        "traditional",
+        25
+      ]
+    ]
+  },
+  {
+    "spotify_id": "1CrWoWuxupYY1vi1XRdpBX",
+    "name": "Something In My Heart",
+    "artist": "Michel'le",
+    "genres": [
+      "hip pop",
+      "new jack swing",
+      "r&b",
+      "urban contemporary"
+    ],
+    "tags": [
+      [
+        "rnb",
+        64
+      ],
+      [
+        "ballads",
+        32
+      ],
+      [
+        "soul",
+        28
+      ],
+      [
+        "smooth",
+        14
+      ],
+      [
+        "sexy",
+        14
+      ],
+      [
+        "slow",
+        10
+      ],
+      [
+        "chillout",
+        10
+      ],
+      [
+        "urban",
+        5
+      ],
+      [
+        "heartbreak",
+        5
+      ],
+      [
+        "mine",
+        5
+      ]
+    ]
+  },
+  {
+    "spotify_id": "2TV1CEAFvQiiLhqxUOCQnC",
+    "name": "Modern Girl",
+    "artist": "Sleater-Kinney",
+    "genres": [
+      "alternative pop",
+      "alternative rock",
+      "anti-folk",
+      "indie pop",
+      "indie punk",
+      "indie rock",
       "lo-fi",
-      "neo-psychedelic",
       "noise pop",
       "noise rock",
-      "shoegaze",
-      "slow core",
-      "space rock"
+      "riot grrrl"
     ],
     "tags": [
-      "shoegaze",
-      "indie",
-      "psychedelic",
-      "experimental",
-      "dreampop",
-      "alternative",
-      "rock",
-      "summer",
-      "soothing",
-      "religious"
+      [
+        "indie",
+        100
+      ],
+      [
+        "rock",
+        36
+      ],
+      [
+        "alternative",
+        18
+      ],
+      [
+        "punk",
+        12
+      ],
+      [
+        "northwest",
+        12
+      ],
+      [
+        "romance",
+        6
+      ],
+      [
+        "nostalgia",
+        6
+      ],
+      [
+        "acoustic",
+        6
+      ],
+      [
+        "smart",
+        6
+      ],
+      [
+        "easy",
+        6
+      ]
     ]
   },
   {
-    "spotify_id": "0Nm6plnGpJd7q3EFmMnFXZ",
-    "name": "Nocturnal Trip",
-    "artist": "Al-Pha-X",
+    "spotify_id": "4pC4usqAN2930VJNKoA79Q",
+    "name": "Golden Brown",
+    "artist": "The Stranglers",
     "genres": [
-      "deep chill-out"
+      "art rock",
+      "britpop",
+      "dance rock",
+      "glam rock",
+      "madchester",
+      "new romantic",
+      "new wave",
+      "new wave pop",
+      "post-punk",
+      "protopunk",
+      "pub rock",
+      "uk post-punk",
+      "zolo"
     ],
     "tags": [
-      "chillout",
-      "relaxation",
-      "heaven",
-      "electronic",
-      "downtempo"
+      [
+        "rock",
+        52
+      ],
+      [
+        "punk",
+        16
+      ],
+      [
+        "pop",
+        15
+      ],
+      [
+        "alternative",
+        14
+      ],
+      [
+        "britpop",
+        7
+      ],
+      [
+        "psychedelic",
+        6
+      ],
+      [
+        "oldies",
+        6
+      ],
+      [
+        "baroque",
+        4
+      ],
+      [
+        "melancholic",
+        4
+      ],
+      [
+        "classic",
+        4
+      ]
     ]
   },
   {
-    "spotify_id": "2ZyKEtawyPdYXQG0U2SAYy",
-    "name": "The Perfect Needle",
-    "artist": "The Telescopes",
+    "spotify_id": "7pIZ4XDMrAYzSPCdvYXrKe",
+    "name": "Here & Now",
+    "artist": "The Ernies",
     "genres": [
-      "twee pop"
+      "ska punk"
     ],
     "tags": [
-      "shoegaze",
-      "noise",
-      "indie",
-      "introspective",
-      "alternative",
-      "psychedelic",
-      "drone",
-      "rock",
-      "english",
-      "spacey"
+      [
+        "rock",
+        100
+      ],
+      [
+        "ska",
+        100
+      ],
+      [
+        "punk",
+        100
+      ]
     ]
   },
   {
-    "spotify_id": "2QgWuCtBpNIpl5trmKCxRf",
-    "name": "American Pie",
-    "artist": "Don McLean",
+    "spotify_id": "4qEgENirNpdYuUYMHMD8QK",
+    "name": "Tell Me",
+    "artist": "Dropping Daylight",
     "genres": [
-      "adult standards",
-      "folk",
-      "folk rock",
-      "mellow gold",
-      "singer-songwriter",
-      "soft rock",
-      "traditional folk"
+      "grunge pop"
     ],
     "tags": [
-      "folk",
-      "rock",
-      "oldies",
-      "pop",
-      "classic",
-      "acoustic",
-      "nostalgic",
-      "piano",
-      "epic",
-      "americana"
+      [
+        "rock",
+        75
+      ],
+      [
+        "emo",
+        50
+      ],
+      [
+        "alternative",
+        50
+      ],
+      [
+        "catchy",
+        13
+      ],
+      [
+        "indie",
+        13
+      ],
+      [
+        "punk",
+        13
+      ]
     ]
   },
   {
-    "spotify_id": "6mbbXTBC7ADcjh5RCNrooU",
-    "name": "There Can Be Only One",
-    "artist": "Cass McCombs",
+    "spotify_id": "5NGsvd9Wf6fzu3Dux4DQAu",
+    "name": "Kein Zur\u00fcck",
+    "artist": "Wolfsheim",
     "genres": [
-      "folk-pop",
-      "indie rock",
-      "noise pop",
-      "singer-songwriter"
+      "dark wave",
+      "ebm",
+      "electro-industrial",
+      "futurepop"
     ],
     "tags": [
-      "rock",
-      "later",
-      "alternative"
+      [
+        "synthpop",
+        100
+      ],
+      [
+        "electronic",
+        69
+      ],
+      [
+        "darkwave",
+        66
+      ],
+      [
+        "deutsch",
+        52
+      ],
+      [
+        "melancholic",
+        12
+      ],
+      [
+        "pop",
+        11
+      ],
+      [
+        "sad",
+        11
+      ],
+      [
+        "goth",
+        10
+      ],
+      [
+        "melancholy",
+        8
+      ],
+      [
+        "synth",
+        7
+      ]
     ]
   },
   {
-    "spotify_id": "63lZR6NrvsosUAFwXSE63E",
-    "name": "Local Girls",
-    "artist": "Graham Parker & The Rumour",
+    "spotify_id": "5PntSbMHC1ud6Vvl8x56qd",
+    "name": "Loser",
+    "artist": "Beck",
     "genres": [
-      "roots rock"
+      "permanent wave"
     ],
     "tags": [
-      "rock",
-      "freedom",
-      "poppy",
-      "pop",
-      "alternative"
+      [
+        "alternative",
+        100
+      ],
+      [
+        "indie",
+        66
+      ],
+      [
+        "rock",
+        57
+      ],
+      [
+        "experimental",
+        10
+      ],
+      [
+        "pop",
+        7
+      ],
+      [
+        "electronic",
+        6
+      ],
+      [
+        "folk",
+        6
+      ],
+      [
+        "rap",
+        4
+      ],
+      [
+        "fun",
+        3
+      ],
+      [
+        "chill",
+        3
+      ]
     ]
   },
   {
-    "spotify_id": "2Kv95rcsvqZtFxPqe3Fqiw",
-    "name": "Be-Bop 2 Hip-Hop",
-    "artist": "Jem Stone",
+    "spotify_id": "1zDKzFdLA6sTQaG2BfolfI",
+    "name": "A Last Dance With L\u00e9on",
+    "artist": "Doctor Flake",
     "genres": [
-      "electro swing",
-      "nu jazz"
+      "electro dub"
     ],
     "tags": [
-      "funky",
-      "jazz",
-      "hip hop"
+      [
+        "downtempo",
+        100
+      ],
+      [
+        "chill",
+        34
+      ],
+      [
+        "eerie",
+        34
+      ],
+      [
+        "sad",
+        34
+      ],
+      [
+        "indie",
+        34
+      ],
+      [
+        "soft",
+        34
+      ],
+      [
+        "melancholy",
+        34
+      ],
+      [
+        "electronica",
+        34
+      ]
     ]
   },
   {
-    "spotify_id": "1mD0LxzCdfathf6j7xMp7b",
-    "name": "Player One",
-    "artist": "Machinae Supremacy",
+    "spotify_id": "3dfmXcFTtAYdoMuDnGwDp0",
+    "name": "Laisse Tomber les Filles",
+    "artist": "Pigeons",
     "genres": [
-      "gothic symphonic metal",
-      "melodic death metal",
-      "power metal",
-      "swedish metal"
+      "popgaze"
     ],
     "tags": [
-      "metal",
-      "rock",
-      "electronic",
-      "electronica",
-      "free",
-      "bitpop",
-      "colours",
-      "red",
-      "loud",
-      "vocal"
+      [
+        "psychedelic",
+        100
+      ],
+      [
+        "female",
+        100
+      ],
+      [
+        "deek",
+        100
+      ],
+      [
+        "woman",
+        100
+      ],
+      [
+        "classic",
+        100
+      ]
     ]
   },
   {
-    "spotify_id": "3KRRK3n90hfCQcMPDmWA9Z",
-    "name": "Something To Do With My Hands",
-    "artist": "Her Space Holiday",
+    "spotify_id": "0s89CS83ATe8rnuOe8Yadx",
+    "name": "Mj\u00f8d",
+    "artist": "Kvelertak",
     "genres": [
-      "electronica"
+      "black thrash",
+      "norwegian metal",
+      "sludge metal"
     ],
     "tags": [
-      "indie",
-      "indietronica",
-      "electronica",
-      "electronic",
-      "chillout",
-      "lyrics",
-      "chill",
-      "happy",
-      "sexy",
-      "pop"
+      [
+        "hardcore",
+        95
+      ],
+      [
+        "punk",
+        53
+      ],
+      [
+        "metal",
+        24
+      ],
+      [
+        "crossover",
+        12
+      ],
+      [
+        "deathgrind",
+        6
+      ],
+      [
+        "moshcore",
+        6
+      ],
+      [
+        "scandinavian",
+        6
+      ],
+      [
+        "queercore",
+        6
+      ],
+      [
+        "metalcore",
+        6
+      ],
+      [
+        "goregrind",
+        6
+      ]
     ]
   },
   {
-    "spotify_id": "4pkFvX3AkuiSGPkv8gMlks",
-    "name": "Save Me",
-    "artist": "Remy Zero",
+    "spotify_id": "2Iy0YPo4EUPiiTzrN8nvBQ",
+    "name": "Maat Fount",
+    "artist": "Sapat",
     "genres": [
-      "pop rock"
+      "drone psych"
     ],
     "tags": [
-      "rock",
-      "alternative",
-      "indie",
-      "pop",
-      "chillout",
-      "stylish",
-      "emo",
-      "favoritas",
-      "nostalgic",
-      "ost"
+      [
+        "psychedelic",
+        100
+      ],
+      [
+        "prda",
+        34
+      ],
+      [
+        "banjo",
+        34
+      ]
     ]
   },
   {
-    "spotify_id": "2xuKmm8QHhZRkeD1fiVyQ7",
-    "name": "Tranquilamente",
-    "artist": "Vanessa Bumagny",
+    "spotify_id": "1AHfovSnGPVYKaahRtA0U6",
+    "name": "The Message",
+    "artist": "Nas",
     "genres": [
-      "deep brazilian pop"
+      "east coast hip hop",
+      "pop rap"
     ],
     "tags": [
-      "brasil",
-      "mpb",
-      "salsa"
+      [
+        "hip hop",
+        100
+      ],
+      [
+        "rap",
+        100
+      ],
+      [
+        "classic",
+        20
+      ],
+      [
+        "hiphop",
+        16
+      ],
+      [
+        "chill",
+        12
+      ],
+      [
+        "classics",
+        9
+      ],
+      [
+        "urban",
+        3
+      ],
+      [
+        "conscious",
+        3
+      ],
+      [
+        "oldschool",
+        3
+      ],
+      [
+        "soul",
+        3
+      ]
     ]
   },
   {
-    "spotify_id": "4hCS2oXEcCRyY0zUIryCJd",
-    "name": "It's Good News Week",
-    "artist": "Hedgehoppers Anonymous",
+    "spotify_id": "5C6NC7CNDiw8rIJkaS0tMM",
+    "name": "Ampos",
+    "artist": "Bad Sector",
     "genres": [
-      "british invasion",
-      "merseybeat"
+      "dark ambient"
     ],
     "tags": [
-      "pop",
-      "oldies",
-      "fun",
-      "novelty",
-      "beat",
-      "malesinger",
-      "atmospheric",
-      "political"
+      [
+        "ambient",
+        25
+      ],
+      [
+        "experimental",
+        25
+      ],
+      [
+        "noise",
+        25
+      ],
+      [
+        "electronic",
+        25
+      ]
+    ]
+  },
+  {
+    "spotify_id": "3LhqM3Vr6mpWNZeOYtCVdG",
+    "name": "Smile Princess, You're Perfect",
+    "artist": "Us, From Outside",
+    "genres": [
+      "post-post-hardcore",
+      "screamo"
+    ],
+    "tags": [
+      [
+        "electro",
+        40
+      ],
+      [
+        "ambient",
+        40
+      ],
+      [
+        "screamo",
+        40
+      ],
+      [
+        "experimental",
+        40
+      ],
+      [
+        "hardcore",
+        40
+      ],
+      [
+        "rnb",
+        20
+      ]
     ]
   }
 ]
