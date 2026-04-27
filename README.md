@@ -1,5 +1,5 @@
-# Musical-Blob
-A deep learning project that converts song snippets into colored images, depending on the genres and tags of the song. 
+# Song2Vec
+A deep learning project that converts song embeddings into colored images, depending on the genres and tags of the song. 
 With both embedding spaces we also trained a VAE model to compute the most optimal path between two songs.
 
 # Getting Data
